@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<record_update>
+  <sys_certificate>
+    <active>true</active>
+    <expiration_notification>false</expiration_notification>
+    <expires>2025-05-03 05:44:16</expires>
+    <expires_in_days>365</expires_in_days>
+    <format>pem</format>
+    <issuer>1.2.840.113549.1.9.1=#161473686173616e6b72616f40676d61696c2e636f6d,CN=shas,OU=ketchup,O=French fries,L=hyderabad,ST=telangana,C=IN</issuer>
+    <key_store_password/>
+    <name>code_signing_key_30531132f21202105ccb357eee7d0900</name>
+    <notify_on_expire/>
+    <pem_certificate>-----BEGIN CERTIFICATE-----
+MIIEBjCCAu6gAwIBAgITR4sCA7CKS2lVxlvf4W4pKL5BgjANBgkqhkiG9w0BAQsF
+ADCBkjELMAkGA1UEBhMCSU4xEjAQBgNVBAgMCXRlbGFuZ2FuYTESMBAGA1UEBwwJ
+aHlkZXJhYmFkMRUwEwYDVQQKDAxGcmVuY2ggZnJpZXMxEDAOBgNVBAsMB2tldGNo
+dXAxDTALBgNVBAMMBHNoYXMxIzAhBgkqhkiG9w0BCQEWFHNoYXNhbmtyYW9AZ21h
+aWwuY29tMB4XDTI0MDUwMzAwMTQxNloXDTI1MDUwMzAwMTQxNlowgZIxCzAJBgNV
+BAYTAklOMRIwEAYDVQQIDAl0ZWxhbmdhbmExEjAQBgNVBAcMCWh5ZGVyYWJhZDEV
+MBMGA1UECgwMRnJlbmNoIGZyaWVzMRAwDgYDVQQLDAdrZXRjaHVwMQ0wCwYDVQQD
+DARzaGFzMSMwIQYJKoZIhvcNAQkBFhRzaGFzYW5rcmFvQGdtYWlsLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOBTzuzIwEyH/9cttmV70yt0U0gW
+zCfCeU7Dui8xOcD0gU55qNPV+Yj/DQ4MW0TdsOkrMAia5NF9LulSa+65sqbceYE2
+2OW5qZiVmqeLQz1AtNBePMD4SBmaGUhqXEeXzvw35PYkJ8n+YUSqjYl644YKnR9+
+LscXCzGGFq+5ePXZfUN2XkMSD65NZTS2UpWH8PFVChJWnfQOT4DTxyi5czAmNsR3
+pYc9y/LpIP64beAzfLjzuop/CLoh6YW6Hiow3Cx5galsE4W09Mpkaoovoqr1orLr
+nDD+YGIJ7gJYAJLMTYScNY9+SaSZ1kNTIKJCWE6oMem2m5rZPKct8Z5p/WMCAwEA
+AaNTMFEwHQYDVR0OBBYEFAatRVsY3tl3btAhn/7hVdfTgHLDMB8GA1UdIwQYMBaA
+FAatRVsY3tl3btAhn/7hVdfTgHLDMA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcN
+AQELBQADggEBAF91UpePPGW45apwn3e0nDBRrAAKeBrOVz+UWzRLKdTU3BI3KG7o
+b2NdjCNlv/62E/ASEPU+cJyfvTftJjHPEzbqAgNaX5k0ej4HUWjAQnvTRedF7ogq
+i3C5JiL1p2czOSsfuBgtqjz9U91RggmTDfm6dH14zaz6ELZqXCiicOPYsl3NutQ8
+7IPF5waHCK0fMkOc5Tv3CfCMh7szGq4Y3zBho16ocWu3goRNjdCEeMgwGaumycsd
+S1Q41NQws6u8BkiMswch4L+Ro+huAo/z/S1k/7aUeOTj/+ljZh3rRNC+R7LY+Qpy
+1UZEK0e5TCqMLyh6asNXVk7kt1K61H+1WMk=
+-----END CERTIFICATE-----
+</pem_certificate>
+    <short_description>shas</short_description>
+    <subject>1.2.840.113549.1.9.1=#161473686173616e6b72616f40676d61696c2e636f6d,CN=shas,OU=ketchup,O=French fries,L=hyderabad,ST=telangana,C=IN</subject>
+    <type>trust_store</type>
+    <valid_from>2024-05-03 05:44:16</valid_from>
+    <warn_in_days_to_expire>20</warn_in_days_to_expire>
+    <sys_class_name>sys_certificate</sys_class_name>
+    <sys_id>30531132f21202105ccb357eee7d0900</sys_id>
+    <sys_name/>
+    <sys_package>global</sys_package>
+    <sys_policy/>
+    <sys_scope>global</sys_scope>
+    <sys_update_name>sys_certificate_30531132f21202105ccb357eee7d0900</sys_update_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2024-05-25 01:26:18</sys_created_on>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2024-05-25 01:26:18</sys_updated_on>
+  </sys_certificate>
+</record_update>
